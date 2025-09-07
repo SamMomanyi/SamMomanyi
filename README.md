@@ -1,16 +1,18 @@
-## Hi there 👋
+ Hi there, I'm Samson Momanyi
 
-<!--
-**SamMomanyi/SamMomanyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer | Kotlin Enthusiast | Chess Lover
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm an Android developer passionate about crafting seamless mobile experiences using Kotlin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Top Skills
+ Kotlin (Primary), Java
+Mobile Development: Android SDK, Jetpack Compose, MVVM Architecture
+Other: UI/UX Design, RESTful APIs, Agile Development
+
+
+
+
+
+> *"Code is like chess—strategy, foresight, and creativity make all the difference."*
+
+
