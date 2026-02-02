@@ -18,6 +18,11 @@ Hi, I'm Samson Momanyi! 🇰🇪<br><br>I am a final-year **Information Technolo
 ### 🎨 Design & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+# 📜 Certifications:
+* 🎓 **Kotlin for Beginners** – [Amigoscode Verified](https://amigoscode.com/certificates/bbce6b98-206b-4701-81a4-d45ee97f95e0)
+* 🎓 **Java for Beginners** – [Amigoscode Verified](https://amigoscode.com/certificates/3d2e5251-e1d1-4247-b0bb-33e09bba0e4f)
+* 🎓 **Git & GitHub Fundamentals** – [Amigoscode Verified](https://amigoscode.com/certificates/f3f6ea79-a36c-4347-9afa-d26778bbf8ed)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SamMomanyi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SamMomanyi&theme=dark&hide_border=false)<br/>
