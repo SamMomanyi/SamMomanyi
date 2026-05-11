@@ -1,3 +1,4 @@
+<img width="1983" height="793" alt="githubBanner" src="https://github.com/user-attachments/assets/818a61ac-8006-4820-bf7d-ecd3b01ada76" />
 # 💫 About Me:
 Hi, I'm Samson Momanyi! 🇰🇪<br><br>I am a final-year **Information Technology** student at **KCA University (KCAU)**, dedicated to building high-performance, cross-platform ecosystems.<br><br>💻 **My Specialization:** I specialize in **Kotlin Multiplatform (KMP)** and **Compose Multiplatform (CMP)**. I’m currently focused on bridging the gap between **Android, iOS, and Desktop (JVM)** using a single, shared Kotlin codebase.<br><br>🎯 **May 2026 Goal:** I am seeking a Mobile/Software Engineering attachment or full-time role where I can leverage my expertise in Multiplatform development to build efficient, scalable Fintech or Enterprise solutions.
 
