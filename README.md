@@ -19,6 +19,7 @@ Hi, I'm Samson Momanyi! 🇰🇪<br><br>I am a final-year **Information Technolo
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📜 Certifications:
+* 🎓 **AWS AI Practitioner Challenge** – [Udacity / Accenture Verified](https://www.udacity.com/certificate/e/ab720d1e-2a8a-11f1-98c8-b384b82e01ac)
 * 🎓 **Spring Boot for Beginners** – [Amigoscode Verified](https://amigoscode.com/certificates/f8b0e117-98a8-4d17-9409-a4dc954a383b)
 * 🎓 **Up and Running with SQL and Databases** – [Amigoscode Verified](https://amigoscode.com/certificates/0c8025a9-7557-4a83-8203-2f47ac235fb7)
 * 🎓 **Kotlin for Beginners** – [Amigoscode Verified](https://amigoscode.com/certificates/bbce6b98-206b-4701-81a4-d45ee97f95e0)
