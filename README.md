@@ -4,7 +4,7 @@
 
 <br/>
 
-**👨‍💻 Final-Year IT Student | 📱 Kotlin Multiplatform (KMP) | 🖥️ Compose Multiplatform (CMP)**
+**👨‍💻 Final-Year IT Student | 📱 Kotlin Multiplatform (KMP) | 🖥️ Compose Multiplatform (CMP) | AI DEVELOPMENT, DEPLYOMENT AND INTERGRATION**
 
 Hi, I'm Samson Momanyi! 🇰🇪 I am an Information Technology student at **KCA University (KCAU)**, dedicated to building high-performance, cross-platform ecosystems. 
 
