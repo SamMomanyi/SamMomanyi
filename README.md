@@ -12,7 +12,6 @@ My core expertise includes **Kotlin Multiplatform** and **Compose Multiplatform*
 
 🎯 **Goal:** I am currently seeking a Mobile/Software Engineering attachment or full-time role for **May 2026** where I can leverage my expertise to build efficient, scalable Fintech or Enterprise solutions.
 
-⚡ **Beyond the screen:** When I'm not writing code, you can usually find me analyzing complex chess theory (always studying the Nimzo-Indian Defense), working on my handstand progression in calisthenics, or listening to indie jangle pop with heavy electric guitar.
 
 ---
 
